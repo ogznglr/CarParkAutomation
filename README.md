@@ -1,4 +1,4 @@
-# CarParkAutomation
+# CarParkAutomation .New Framework
 This project made for tracking vehicles in the car park and calculate the price for subscribed and non customers will give. I worked with MSSQL and .Net Framework.
 Please feel free to use soruce codes for educational purposes. The UI is Turkish but all the source codes are English. So it is easy to understand codes.
 
