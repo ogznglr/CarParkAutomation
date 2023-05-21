@@ -1,0 +1,16 @@
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\bin\Debug\WindowsFormsAppnetfreamwork.exe.config
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\bin\Debug\WindowsFormsAppnetfreamwork.exe
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\bin\Debug\WindowsFormsAppnetfreamwork.pdb
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.csproj.AssemblyReference.cache
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.Form1.resources
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.Properties.Resources.resources
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.csproj.GenerateResource.cache
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.csproj.CoreCompileInputs.cache
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.exe
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.pdb
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.AddRegister.resources
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.MainForm.resources
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.AvaibleRegistersForm.resources
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.NewSubscription.resources
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.OldRegistrations.resources
+C:\Users\oguzz\source\repos\WindowsFormsAppnetfreamworkApp\WindowsFormsAppnetfreamwork\obj\Debug\WindowsFormsAppnetfreamwork.NewTariff.resources
