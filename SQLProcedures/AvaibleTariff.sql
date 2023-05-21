@@ -1,0 +1,5 @@
+CREATE PROCEDURE dbo.AvaibleTariff
+AS
+BEGIN
+    SELECT TOP 1 * FROM Tariff ORDER BY ID DESC
+END;
